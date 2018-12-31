@@ -1,2 +1,7 @@
 # Jen-s-work
-Here i upload my big and small projects. I hope you enjoy
+Fairies flying at different speed behind each other.
+1. Css animation used.
+
+Contributors : 
+ Jenny Uppal--> https://github.com/jennycodes18
+ Ravi prabhaskar -->
